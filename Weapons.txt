@@ -15,3 +15,6 @@ Fairy
 Tamer
 	Bow
 	Crosbow
+
+As armas podem ser das seguintes qualidades:
+	White, Green, Blue, Golden
