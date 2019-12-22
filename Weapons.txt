@@ -1,0 +1,17 @@
+Weapons Talisman Online
+
+Assasin
+	Simitar
+	Dagger
+Wizard
+	Sword
+	Blade
+Monk
+	Shovel
+	Staff
+Fairy
+	Whell
+	Pearl
+Tamer
+	Bow
+	Crosbow
