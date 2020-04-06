@@ -16,3 +16,4 @@
 - Optimus Prime Pet
 - Mushroom Pet
 - Magical Lamp
+- Little Monk Pet
